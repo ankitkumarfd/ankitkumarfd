@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1774" height="887" alt="ChatGPT Image May 15, 2026, 10_52_44 AM" src="https://github.com/user-attachments/assets/3fa947c0-a3eb-49f4-83b5-84c3cb0a4f0d" />
+</p>
+
 # Hi 👋, I'm Ankit Kumar
 
 ### Frontend Developer from India 🇮🇳
@@ -51,5 +55,3 @@ I build modern, responsive and high-performance web applications using React, Ne
 ## ⚡ Fun Fact
 
 I love exploring modern UI/UX designs on Behance and Dribbble for creative inspiration ✨
-
-<img width="1774" height="887" alt="ChatGPT Image May 15, 2026, 10_52_44 AM" src="https://github.com/user-attachments/assets/3fa947c0-a3eb-49f4-83b5-84c3cb0a4f0d" />
